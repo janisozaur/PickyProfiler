@@ -3,7 +3,7 @@ name: C/C++ CI
 on: [push]
 
 jobs:
-  build-x64:
+  build-x86_64:
 
     runs-on: windows-latest
     
